@@ -141,23 +141,5 @@ GROUP BY s.Name;
 
 ---
 
-## 📂 Files Provided
 
-- `StudentPerformanceTracker.sql`: SQL file with schema + inserts + queries
-- `README.md`: Documentation file (this one)
 
----
-
-## 🚀 Future Enhancements (Optional)
-
-- Add login system for teachers
-- Add triggers to prevent marks > max
-- Build simple frontend in HTML/PHP or Python
-
----
-
-## 👨‍💻 Author
-
-**Developed by:** Gouri Shankar (with guidance from ChatGPT)  
-**Date:** August 2025  
-**Skill Level:** Beginner to Intermediate  
